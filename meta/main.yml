@@ -5,7 +5,7 @@ galaxy_info:
   role_name: ansible-role-install-docker-centos7
   author: VikSh404
   description: Install Docker on CentOS7.
-  license: "license (BSD, MIT)"
+  license: "MIT"
   min_ansible_version: 2.9
   platforms:
     - name: CentOS
